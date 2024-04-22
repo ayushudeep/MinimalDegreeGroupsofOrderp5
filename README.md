@@ -19,8 +19,6 @@ The other files are:
 
 * ThreeIsomorphicGroups.m: Establishes isomorphism for three groups listed in the paper.
 
-* Example*.m: code to realise explicit examples listed in the paper.
-
 Here's an example of the use of the code.
 
 % cd Table-2 
