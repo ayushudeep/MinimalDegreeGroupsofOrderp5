@@ -19,6 +19,13 @@ The other files are:
 
 * ThreeIsomorphicGroups.m: Establishes isomorphism for three groups listed in the paper.
 
+* setup-permrep.m: Various functions needed to set up the 
+associated representations for an explicit prime p. 
+
+* Saunders-mindeg.m: An implementation in Magma of the 
+algorithm of Elias et al. (2010) developed by Neil Saunders.
+
+
 Here's an example of the use of the code.
 
 % cd Table-2 
