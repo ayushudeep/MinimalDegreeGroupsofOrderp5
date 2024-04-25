@@ -30,8 +30,6 @@ Here's an example of the use of the code.
 
 % cd Table-2 
 % magma Table2-Center-rank1.m
-// For each prime p in range [5..11] 
-// the groups of order p^5 with center of rank 1 listed in Table 2 are setup 
-// and their minimal degree permutation representations are constructed. 
+// For each prime p in range [5..11] the groups of order p^5 with center of rank 1 listed in Table 2 are setup and their minimal degree permutation representations are constructed. 
 
 Prepared April 2024
