@@ -1,7 +1,7 @@
 
 This repository contains data and code related to the preprint:
 
-Sunil Kumar Prajapati, and Ayush Udeep.
+Sunil Kumar Prajapati and Ayush Udeep.
 Minimal degrees for faithful permutation representations 
 of groups of order $p^5$ where $p$ is an odd prime.
 
@@ -29,9 +29,9 @@ algorithm of Elias et al. (2010) developed by Neil Saunders.
 Here's an example of the use of the code.
 
 % cd Table-2 
+
 % magma Table2-Center-rank1.m
-//For each prime p in range [5..11]
-//the groups of order p^5 with center of rank 1 listed in Table 2 are setup
-//and their minimal degree permutation representations are constructed. 
+
+//For each prime p in range [5..11] the groups of order p^5 with center of rank 1 listed in Table 2 are setup and their minimal degree permutation representations are constructed. 
 
 Prepared April 2024
