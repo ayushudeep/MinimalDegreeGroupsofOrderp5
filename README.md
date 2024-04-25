@@ -11,13 +11,6 @@ Each directory Table-J where J \in {1,...,3} encodes data recorded in
 the corresponding table of the paper. 
 
 The other files are:
-* BehraveshDelfanip5GroupsTest.m: Checks the number of non-isomorphic
-  groups of order p^5, for an explicit prime p, that appear in the paper:
-  
-  H. Behravesh and M. Delfani, On faithful quasi-permutation representations
-   of groups of order p^5, J. Algebra Appl., 17(7) (2018), 1850127 (12 pages).
-
-* ThreeIsomorphicGroups.m: Establishes isomorphism for three groups listed in the paper.
 
 * setup-permrep.m: Various functions needed to set up the 
 associated representations for an explicit prime p. 
