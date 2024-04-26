@@ -18,6 +18,7 @@ associated representations for an explicit prime p.
 * Saunders-mindeg.m: An implementation in Magma of the 
 algorithm of Elias et al. (2010) developed by Neil Saunders.
 
+* Example*.m: code to realise the examples described in the paper.
 
 Here's an example of the use of the code.
 
@@ -25,6 +26,6 @@ Here's an example of the use of the code.
 
 % magma Table2-Center-rank1.m
 
-//For each prime p in range [5..11] the groups of order p^5 with center of rank 1 listed in Table 2 are setup and their minimal degree permutation representations are constructed. 
+The file is Center-rank1.m. 
 
 Prepared April 2024
