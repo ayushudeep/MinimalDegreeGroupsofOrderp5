@@ -12,10 +12,10 @@ the corresponding table of the paper.
 
 The other files are:
 
-* setup-permrep.m: Various functions needed to set up the 
+* setup-permrep.m: various functions needed to set up the 
 associated representations for an explicit prime p. 
 
-* Saunders-mindeg.m: An implementation in Magma of the 
+* Saunders-mindeg.m: an implementation in Magma of the 
 algorithm of Elias et al. (2010) developed by Neil Saunders.
 
 * Example*.m: code to realise the examples described in the paper.
