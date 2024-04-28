@@ -24,7 +24,7 @@ Here's an example of the use of the code.
 
 % cd Table-2 
 
-% magma Table2-Center-rank1.m
+% magma Center-rank1.m
 
 The file is Center-rank1.m. 
 
