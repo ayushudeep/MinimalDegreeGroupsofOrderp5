@@ -1,5 +1,5 @@
 
-This repository contains data and code related to the preprint:
+This repository contains the following preprint, along with the related data and code:
 
 Sunil Kumar Prajapati and Ayush Udeep.
 Minimal degrees for faithful permutation representations 
